@@ -13,3 +13,20 @@ I developed a lightweight web app using **Flask** (customizable to FastAPI), ver
 
 By integrating **GitHub Secrets** and **Azure CLI**, I ensured that sensitive credentials were protected and the deployment pipeline remained secure and scalable.
 
+<p align="center">
+Live Webb App: <br/>
+<img src="https://i.imgur.com/Y0zCQgf.png" height="80%" width="80%"
+<br />
+<br />
+Deployment to Cloud:  <br/>
+<img src="https://i.imgur.com/p0m3DPa.png" height="80%" width="80%" 
+<br />
+<br />
+Github Secrets: <br/>
+<img src="https://i.imgur.com/CSsjT1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Deployment logs:  <br/>
+<img src="https://i.imgur.com/ju37YWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
